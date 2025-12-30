@@ -1,4 +1,4 @@
-# 🎨 Alex - Professional Portfolio Website
+# 🎨 akCreative - Professional Portfolio Website
 
 A modern, animated portfolio website showcasing design work with stunning visual effects and smooth interactions.
 
@@ -364,3 +364,4 @@ http://localhost:8000
 ```
 
 **Enjoy your professional portfolio! 🎉**
+
